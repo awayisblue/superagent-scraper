@@ -1,0 +1,26 @@
+{
+  "name": "superagent-scraper",
+  "version": "1.0.0",
+  "description": "A superagent plugin to support basic scraping capability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awayisblue/superagent-scraper.git"
+  },
+  "keywords": [
+    "superagent",
+    "scraper"
+  ],
+  "author": "awayisblue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awayisblue/superagent-scraper/issues"
+  },
+  "homepage": "https://github.com/awayisblue/superagent-scraper#readme",
+  "devDependencies": {
+    "superagent": "^3.5.2"
+  }
+}
